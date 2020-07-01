@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uBE3TxDr1Wudx7XS3lsihiLgh9Rw0JrrHsEBx3FY5phsQWBQCdcWS1bX9RpEE5ne53+o/U6I5q7VsVRjkM1Dqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Miljana\\source\\repos\\WatchShop\\WatchShop.Application\\WatchShop.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miljana\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Miljana\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

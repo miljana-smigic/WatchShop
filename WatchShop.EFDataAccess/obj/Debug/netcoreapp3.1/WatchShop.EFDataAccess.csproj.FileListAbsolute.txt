@@ -1,0 +1,15 @@
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.EFDataAccess\bin\Debug\netcoreapp3.1\WatchShop.EFDataAccess.deps.json
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.EFDataAccess\bin\Debug\netcoreapp3.1\WatchShop.EFDataAccess.dll
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.EFDataAccess\obj\Debug\netcoreapp3.1\WatchShop.EFDataAccess.csprojAssemblyReference.cache
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.EFDataAccess\obj\Debug\netcoreapp3.1\WatchShop.EFDataAccess.AssemblyInfoInputs.cache
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.EFDataAccess\obj\Debug\netcoreapp3.1\WatchShop.EFDataAccess.AssemblyInfo.cs
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.EFDataAccess\bin\Debug\netcoreapp3.1\WatchShop.EFDataAccess.runtimeconfig.json
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.EFDataAccess\bin\Debug\netcoreapp3.1\WatchShop.EFDataAccess.runtimeconfig.dev.json
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.EFDataAccess\obj\Debug\netcoreapp3.1\WatchShop.EFDataAccess.genruntimeconfig.cache
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.EFDataAccess\bin\Debug\netcoreapp3.1\WatchShop.EFDataAccess.pdb
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.EFDataAccess\bin\Debug\netcoreapp3.1\WatchShop.Domain.dll
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.EFDataAccess\bin\Debug\netcoreapp3.1\WatchShop.Domain.pdb
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.EFDataAccess\obj\Debug\netcoreapp3.1\WatchShop.EFDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.EFDataAccess\obj\Debug\netcoreapp3.1\WatchShop.EFDataAccess.csproj.CopyComplete
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.EFDataAccess\obj\Debug\netcoreapp3.1\WatchShop.EFDataAccess.dll
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.EFDataAccess\obj\Debug\netcoreapp3.1\WatchShop.EFDataAccess.pdb

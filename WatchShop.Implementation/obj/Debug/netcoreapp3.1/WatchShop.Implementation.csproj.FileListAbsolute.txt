@@ -1,0 +1,16 @@
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.Implementation\bin\Debug\netcoreapp3.1\WatchShop.Implementation.deps.json
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.Implementation\bin\Debug\netcoreapp3.1\WatchShop.Implementation.dll
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.Implementation\obj\Debug\netcoreapp3.1\WatchShop.Implementation.AssemblyInfoInputs.cache
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.Implementation\obj\Debug\netcoreapp3.1\WatchShop.Implementation.AssemblyInfo.cs
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.Implementation\obj\Debug\netcoreapp3.1\WatchShop.Implementation.csprojAssemblyReference.cache
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.Implementation\bin\Debug\netcoreapp3.1\WatchShop.Implementation.pdb
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.Implementation\bin\Debug\netcoreapp3.1\WatchShop.Application.dll
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.Implementation\bin\Debug\netcoreapp3.1\WatchShop.Domain.dll
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.Implementation\bin\Debug\netcoreapp3.1\WatchShop.EFDataAccess.dll
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.Implementation\bin\Debug\netcoreapp3.1\WatchShop.Application.pdb
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.Implementation\bin\Debug\netcoreapp3.1\WatchShop.EFDataAccess.pdb
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.Implementation\bin\Debug\netcoreapp3.1\WatchShop.Domain.pdb
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.Implementation\obj\Debug\netcoreapp3.1\WatchShop.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.Implementation\obj\Debug\netcoreapp3.1\WatchShop.Implementation.csproj.CopyComplete
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.Implementation\obj\Debug\netcoreapp3.1\WatchShop.Implementation.dll
+C:\Users\Miljana\source\repos\WatchShop\WatchShop.Implementation\obj\Debug\netcoreapp3.1\WatchShop.Implementation.pdb

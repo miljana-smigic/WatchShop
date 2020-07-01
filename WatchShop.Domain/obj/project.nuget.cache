@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xzy1RSz3uNaszIhjTvojV4BHlrELGHQE0V3qCbZAlSI523+ptQ3YJLRnOFX3L0QCGvu/bUYpWpEI5jOImmQe7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Miljana\\source\\repos\\WatchShop\\WatchShop.Domain\\WatchShop.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miljana\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
